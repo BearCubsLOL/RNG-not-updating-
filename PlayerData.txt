@@ -1,0 +1,5 @@
+{
+    "username": "LOL",
+    "password": "LOL",
+    "coins": 99999999999815
+}
